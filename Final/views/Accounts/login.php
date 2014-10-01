@@ -20,6 +20,9 @@
 		$row = array('email'=>null, 'password'=>null);
 	}
 ?>
+
+
+
             	<dl class="error">
             		<? foreach ($results as $key => $value): ?>
 						<dt><?=$key?></dt>
