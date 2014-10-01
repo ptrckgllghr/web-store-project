@@ -1,0 +1,62 @@
+header {
+	min-height: 20px;
+	background-color: grey;
+	color: #802420;
+}
+nav {
+	font-family: "Franklin Gothic Book";
+	font: "Blackadder ITC";
+	width: 75px;
+	min-height: 400px;
+	max-height:200px;
+	float:left;
+	background-color:#D9EDF7;
+	color: #802420;	
+}
+
+div#ui
+{
+	float:left;
+}
+
+div#login
+{
+	float:right;
+	color:#000000 ;
+	background-color:grey;
+	
+}
+
+img
+{
+	max-height: 150px;
+	max-width: 150px;
+}
+
+body
+{
+	background-color: #005333;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 10;
+}
+div#content {
+	color: #802420;
+	margin: 30px;
+	width: 70%;
+	float:inherit;
+	background-color:#D9EDF7;
+}
+.error {
+	color: red;
+}
+
+.content
+{
+	color: #000000;
+}
+
+input.error {
+	border-color: red;
+}
